@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <p align="center">
   <em>Aspiring AI Developer | Python Enthusiast | Problem Solver</em>
 </p>
+
 ### 🌟 About Me
 - 🎓 Pursuing B.Tech in Computer Science at Bennett University  
 - 🤖 Passionate about Artificial Intelligence & Machine Learning  
