@@ -39,17 +39,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Projects
-
-| Project Name             | Description                                | Tech Stack        |
-|-------------------------|--------------------------------------------|-------------------|
-| **QR Code Generator**    | Generates QR codes dynamically from URLs  | Python            |
-| **Resume Parser**        | Parses resumes to extract structured data | Python (In Progress) |
-| **Medical Data Extraction** | Extracts medical info from documents     | Python            |
-| **Airline Management System** | Basic system to manage airline bookings | Java Swing & JavaFX |
-
----
-
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishna-paswan-b18b1b315)  
 
