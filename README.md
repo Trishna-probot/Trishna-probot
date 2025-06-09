@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trishna-kumari-paswan)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trishnapaswan)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trishnapaswan@example.com)  
+[![LinkedIn]((https://www.linkedin.com))  
+[![GitHub](https://github.com/Trishna-probot)  
+[![Email](trishnaapaswan@gmail.com)  
 
 ---
 
@@ -62,49 +62,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishnapaswan&layout=compact&theme=radical" height="150" />
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#6a9fb5;">Trishna</span> 👋</h1>
-
-<p align="center">
-  <em>Aspiring AI Developer | Python Enthusiast | Problem Solver</em>
-</p>
-
----
-
-### 🌟 About Me
-- 🎓 Pursuing B.Tech in Computer Science at Bennett University  
-- 🤖 Passionate about Artificial Intelligence & Machine Learning  
-- 🔍 Dedicated to building real-world solutions with clean, efficient code  
-- 💻 Active participant in CodeChef BU coding community  
-
----
-
-### 🛠️ Technologies & Tools
-| Languages        | Frameworks / Libraries        | Tools & Platforms           |
-|------------------|--------------------------=----|-----------------------------|
-| Python, Java, C++| JavaFX, Servlet/JSP, Swing    | Git, VS Code, Eclipse, Xcode|
-| HTML, CSS        | Pandas, NumPy, spaCy, PyMuPDF |                             |
-
----
-
-### 🚀 Projects
-
-| Project Name                  |            Description                    |    Tech Stack        |
-|-------------------------------|-------------------------------------------|----------------------|
-| **QR Code Generator**         | Generates QR codes dynamically from URLs  | Python               |
-| **Resume Parser**             | Parses resumes to extract structured data | Python (In Progress) |
-| **Medical Data Extraction**   | Extracts medical info from documents      | Python               |
-| **Airline Management System** | Basic system to manage airline bookings   | Java Swing & JavaFX  |
-
----
-
-### 📫 Connect with Me  
-[![LinkedIn] (https://www.linkedin.com)
-[![GitHub]  (https://github.com/Trishna-probot)
-[![Email] (trishnaapaswan@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishnapaswan&show_icons=true&theme=radical&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishnapaswan&layout=compact&theme=radical" height="150" />
-</p>
