@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm <span style="color:#6a9fb5;">Trishna</span> 👋</h1>
-
 <p align="center">
   <em>Aspiring AI Developer | Python Enthusiast | Problem Solver</em>
 </p>
-
----
-
 ### 🌟 About Me
 - 🎓 Pursuing B.Tech in Computer Science at Bennett University  
 - 🤖 Passionate about Artificial Intelligence & Machine Learning  
