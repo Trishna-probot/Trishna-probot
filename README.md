@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#6a9fb5;">Trishna</span> 👋</h1>
+### Hi! I'm Trishna
 <!--
 **trishnapaswan/trishnapaswan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
