@@ -31,14 +31,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Technologies & Tools
-| Languages       | Frameworks / Libraries      | Tools & Platforms          |
-|-----------------|----------------------------|---------------------------|
-| Python, Java, C++| JavaFX, Servlet/JSP, Swing | Git, VS Code, Eclipse     |
-| HTML, CSS       | Pandas, NumPy, spaCy, PyMuPDF | XCode                          |
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Trishna-probot&show_icons=true&theme=radical&hide_title=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trishna-probot&layout=compact&theme=radical" height="150" />
