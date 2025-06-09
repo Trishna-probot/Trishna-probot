@@ -49,13 +49,8 @@ Here are some ideas to get you started:
 | **Airline Management System** | Basic system to manage airline bookings | Java Swing & JavaFX |
 
 ---
-
-### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)((www.linkedin.com/in/trishna-paswan-b18b1b315)] 
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Trishna-probot)]
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)(trishnaapaswan@gmail.com)]  
+### 📫 Connect 
+[LinkedIn](www.linkedin.com/in/trishna-paswan-b18b1b315) • [GitHub](https://github.com/Trishna-probot) • [Email](trishnaapaswan@gmail.com)
 
 ---
 
