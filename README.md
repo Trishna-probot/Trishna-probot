@@ -51,14 +51,14 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn]((https://www.linkedin.com))  
-[![GitHub](https://github.com/Trishna-probot)  
-[![Email](trishnaapaswan@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/trishna-paswan) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)] (https://github.com/Trishna-probot)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)(trishnaapaswan@gmail.com)  
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trishnapaswan&show_icons=true&theme=radical&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trishnapaswan&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Trishna-probot&show_icons=true&theme=radical&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trishna-probot&layout=compact&theme=radical" height="150" />
 </p>
 
