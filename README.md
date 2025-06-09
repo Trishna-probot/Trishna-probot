@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy transforming complex problems into elegant code solutions
 -->
 
-<h1 align="center">Hi, I'm <span style="color:#6a9fb5;">Trishna</span> 👋</h1>
 <p align="center">
   <em>Aspiring AI Developer | Python Enthusiast | Problem Solver</em>
 </p>
